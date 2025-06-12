@@ -81,14 +81,14 @@ int main(void) {
       printf("\nO primeiro passo em caso de queimadura é retirar a pessoa da "
              "região próxima à fonte de calor. "
              "Feito isso, deve-se avaliar a lesão. Se o dano for leve, "
-             "recomend(&c)a-se lavar o local com água corrente ou colocar "
+             "recomenda-se lavar o local com água corrente ou colocar "
              "compressas de soro fisiológico para reduzir a temperatura do "
              "local. Caso apareçam bolhas, elas nunca devem ser "
              "furadas. Se ao avaliar a lesão, você perceber que o dano é "
              "grave, é fundamental procurar ajuda médica "
              "imediatamente. Outro ponto importante é nunca passar no local "
              "nenhuma substância caseira nem mesmo medicamentos "
-             "sem que sejam recomend(&c)ados por um médico.\n");
+             "sem que sejam recomendados por um médico.\n");
       end(&c);
       break;
     case 2:
